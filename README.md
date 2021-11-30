@@ -7,6 +7,6 @@ In this competition, you’re challenged to analyze a Google Merchandise Store (
 
 
 ## Root Mean Squared Error (RMSE)
-Submissions are scored on the root mean squared error. RMSE is defined as:
+Submissions are scored on the root mean squared error metric. RMSE is defined as:
 ### sqrt(Sum(y-yhat)^2/n)
 where y hat is the natural log of the predicted revenue for a customer and y is the natural log of the actual summed revenue value plus one.
